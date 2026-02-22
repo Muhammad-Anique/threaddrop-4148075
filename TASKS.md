@@ -19,7 +19,7 @@
 - [x] **Task 4: Create root layout and global styles**
   Create `app/layout.tsx` (metadata, font configuration) and `app/globals.css` (Tailwind directives and global streetwear-inspired resets). Commit: `feat: add root layout and global styles`.
 
-- [ ] **Task 5: Implement Hero component**
+- [x] **Task 5: Implement Hero component**
   Create `components/Hero.tsx` featuring a premium product introduction, streetwear imagery, and a 'Notify Me' CTA. Commit: `feat: add Hero component`.
 
 - [ ] **Task 6: Implement ProductShowcase component**
