@@ -10,7 +10,7 @@
 - [x] **Task 1: Project initialization**
   Initialize the Next.js project with TypeScript and Tailwind CSS. Create `package.json`, `tsconfig.json`, `next.config.js`, and `.gitignore`. Commit: `chore: initialize Next.js project`.
 
-- [ ] **Task 2: Configure Tailwind CSS**
+- [x] **Task 2: Configure Tailwind CSS**
   Create `tailwind.config.ts` and `postcss.config.js` with the minimalist streetwear palette (Black, White, Washed Grey, Off-White) defined in the architecture. Commit: `chore: add Tailwind CSS config`.
 
 - [ ] **Task 3: Set up Supabase client**
