@@ -16,7 +16,7 @@
 - [x] **Task 3: Set up Supabase client**
   Create `lib/supabaseClient.ts` using `process.env.NEXT_PUBLIC_SUPABASE_URL` and `process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY`. Create `.env.example` file. Commit: `chore: add Supabase client`.
 
-- [ ] **Task 4: Create root layout and global styles**
+- [x] **Task 4: Create root layout and global styles**
   Create `app/layout.tsx` (metadata, font configuration) and `app/globals.css` (Tailwind directives and global streetwear-inspired resets). Commit: `feat: add root layout and global styles`.
 
 - [ ] **Task 5: Implement Hero component**
