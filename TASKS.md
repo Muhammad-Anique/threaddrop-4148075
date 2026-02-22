@@ -31,7 +31,7 @@
 - [x] **Task 8: Implement WhatsAppCTA component**
   Create `components/WhatsAppCTA.tsx` as a floating button or footer link using the official WhatsApp API link pattern provided in the architecture. Commit: `feat: add WhatsApp CTA component`.
 
-- [ ] **Task 9: Assemble landing page**
+- [x] **Task 9: Assemble landing page**
   Construct the main landing page in `app/page.tsx` by composing the Hero, ProductShowcase, LeadForm, and adding a minimalist Navbar/Footer. Commit: `feat: assemble landing page`.
 
 - [ ] **Task 10: Write README**
