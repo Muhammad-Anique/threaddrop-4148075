@@ -25,7 +25,7 @@
 - [x] **Task 6: Implement ProductShowcase component**
   Create `components/ProductShowcase.tsx` as a responsive grid showcasing the T-shirt collection with size and color details. Commit: `feat: add ProductShowcase component`.
 
-- [ ] **Task 7: Implement LeadForm component**
+- [x] **Task 7: Implement LeadForm component**
   Create `components/LeadForm.tsx` to capture Name and Email. Integrate with the Supabase client to insert records into the `leads` table. Commit: `feat: add LeadForm component`.
 
 - [ ] **Task 8: Implement WhatsAppCTA component**
