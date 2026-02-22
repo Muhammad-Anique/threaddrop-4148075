@@ -7,7 +7,7 @@
 
 ## Tasks
 
-- [ ] **Task 1: Project initialization**
+- [x] **Task 1: Project initialization**
   Initialize the Next.js project with TypeScript and Tailwind CSS. Create `package.json`, `tsconfig.json`, `next.config.js`, and `.gitignore`. Commit: `chore: initialize Next.js project`.
 
 - [ ] **Task 2: Configure Tailwind CSS**
