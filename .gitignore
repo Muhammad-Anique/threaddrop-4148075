@@ -25,7 +25,6 @@ yarn-error.log*
 
 # Local env files
 .env*.local
-.env
 
 # Vercel
 .vercel
@@ -41,3 +40,4 @@ __pycache__/
 venv/
 .venv/
 Thumbs.db
+config.bat
