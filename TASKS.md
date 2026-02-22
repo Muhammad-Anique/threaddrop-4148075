@@ -28,7 +28,7 @@
 - [x] **Task 7: Implement LeadForm component**
   Create `components/LeadForm.tsx` to capture Name and Email. Integrate with the Supabase client to insert records into the `leads` table. Commit: `feat: add LeadForm component`.
 
-- [ ] **Task 8: Implement WhatsAppCTA component**
+- [x] **Task 8: Implement WhatsAppCTA component**
   Create `components/WhatsAppCTA.tsx` as a floating button or footer link using the official WhatsApp API link pattern provided in the architecture. Commit: `feat: add WhatsApp CTA component`.
 
 - [ ] **Task 9: Assemble landing page**
