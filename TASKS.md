@@ -13,7 +13,7 @@
 - [x] **Task 2: Configure Tailwind CSS**
   Create `tailwind.config.ts` and `postcss.config.js` with the minimalist streetwear palette (Black, White, Washed Grey, Off-White) defined in the architecture. Commit: `chore: add Tailwind CSS config`.
 
-- [ ] **Task 3: Set up Supabase client**
+- [x] **Task 3: Set up Supabase client**
   Create `lib/supabaseClient.ts` using `process.env.NEXT_PUBLIC_SUPABASE_URL` and `process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY`. Create `.env.example` file. Commit: `chore: add Supabase client`.
 
 - [ ] **Task 4: Create root layout and global styles**
