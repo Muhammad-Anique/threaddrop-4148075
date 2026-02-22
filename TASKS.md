@@ -22,7 +22,7 @@
 - [x] **Task 5: Implement Hero component**
   Create `components/Hero.tsx` featuring a premium product introduction, streetwear imagery, and a 'Notify Me' CTA. Commit: `feat: add Hero component`.
 
-- [ ] **Task 6: Implement ProductShowcase component**
+- [x] **Task 6: Implement ProductShowcase component**
   Create `components/ProductShowcase.tsx` as a responsive grid showcasing the T-shirt collection with size and color details. Commit: `feat: add ProductShowcase component`.
 
 - [ ] **Task 7: Implement LeadForm component**
